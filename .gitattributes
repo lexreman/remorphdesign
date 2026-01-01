@@ -1,0 +1,4 @@
+*.shapr filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
+*.x_t filter=lfs diff=lfs merge=lfs -text
+CAD/ASSEMBLY/REMORPH_DESIGN_BETA_1.shapr filter=lfs diff=lfs merge=lfs -text
