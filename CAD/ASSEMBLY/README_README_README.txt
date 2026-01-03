@@ -11,7 +11,7 @@ to address CAD clean-up, additional verification,
 sub-assembly refinements, small user-experience improvements, 
 and possible modifications to certain parts or assemblies.
 
-Dedicated files for solidworks and f365 will be published after.
+Dedicated files for solidworks and f360 will be published after.
 
 The printer has been fully assembled and is currently operational. 
 Extensive iteration has been performed on critical components, 
