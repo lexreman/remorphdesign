@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- First image: logo, reduced to 60% size -->
-<img src="IMAGES/REMORPH_CLEAR_BKG_LOGO.png" alt="Remorph Logo" width="40%">
+<img src="IMAGES/REMORPH_CLEAR_BKG_LOGO.png" alt="Remorph Logo" width="20%">
 
 <!-- Second and third images: full width -->
 <img src="IMAGES/REMORPH_DESIGN_WHITE_TEXT.png" alt="Remorph Design Text" width="100%">
