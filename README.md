@@ -1,7 +1,11 @@
 <div align="center">
+
 <img src="IMAGES/REMORPH_CLEAR_BKG_LOGO.png" alt="Remorph Logo" width="20%">
+
 <img src="IMAGES/REMORPH_DESIGN_WHITE_TEXT.png" alt="Remorph Design Text" width="100%">
+
 <img src="IMAGES/IMG_01.png" alt="Image 01" width="100%">
+
 </div>
 
 
@@ -44,3 +48,11 @@
 * All idlers and gears use 5mm shafts with 13mm bearings 
 
 * Nozzle wiper with a slide-out bucket
+
+<div align="center">
+
+For more details, visit [www.remorphdesign.com](https://www.remorphdesign.com)
+
+[![Join Discord](https://invidget.switchblade.xyz/phrpmeStyb?theme=dark&size=large)](https://discord.gg/phrpmeStyb)
+
+</div>
