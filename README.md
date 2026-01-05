@@ -51,4 +51,4 @@
 
   For more details: [www.remorphdesign.com](https://www.remorphdesign.com)
 
-[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phrpmeStyb)
+  [![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phrpmeStyb)
