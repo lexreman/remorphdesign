@@ -18,7 +18,7 @@
 * Frame made of 3030s and 2020s T-slot extrusions 
 
 * Nearly all mechanical parts are machined aluminum  
-* Buildplate with built-in magnets, compatible with eddy sensor. 
+
 * 48V N23 servos for X and Y 
 
 * Servos and electronics isolated 
@@ -51,7 +51,7 @@
 
   **For more details, visit [www.remorphdesign.com](https://www.remorphdesign.com)**
 
-  [![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phrpmeStyb)
+  [![Join the Discord](https://img.shields.io/badge/Join%20our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phrpmeStyb)
 
 
 
