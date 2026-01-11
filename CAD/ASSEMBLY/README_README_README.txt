@@ -12,7 +12,7 @@ sub-assembly refinements, small user-experience improvements,
 and possible modifications to certain parts or assemblies.
 
 The CAD was done in Shapr3D. Exported all from there, for now.
-Dedicated files for solidworks and f360 will be published after.
+Dedicated files for solidworks and f360 will be published later.
 
 The printer has been fully assembled and is currently operational. 
 Extensive iteration has been performed on critical components, 
