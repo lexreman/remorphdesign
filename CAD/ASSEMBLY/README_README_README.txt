@@ -11,6 +11,7 @@ to address CAD clean-up, additional verification,
 sub-assembly refinements, small user-experience improvements, 
 and possible modifications to certain parts or assemblies.
 
+The CAD was done in Shapr3D. Exported all from there, for now.
 Dedicated files for solidworks and f360 will be published after.
 
 The printer has been fully assembled and is currently operational. 
